@@ -1,6 +1,8 @@
-# Welcome to Remix!
+# tattoo-gpt
 
-- [Remix Docs](https://remix.run/docs)
+Ideas to live tattoos in seconds
+
+Soon on [tattoogpt.theruntime.dev/](https://tattoogpt.theruntime.dev/)
 
 ## Development
 
@@ -19,20 +21,3 @@ First, build your app for production:
 ```sh
 npm run build
 ```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
